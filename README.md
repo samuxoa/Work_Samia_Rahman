@@ -69,7 +69,7 @@ A mobile app that gives farmers live sensor data, crop-specific recommendations 
 ##  Let's Connect
 
 - 🌐 Portfolio: [work-chutocoder.vercel.app](https://work-chutocoder.vercel.app/)
-- 💼 LinkedIn: *add your link here*
-- 📧 Email: *add your email here*
+- 💼 LinkedIn: (https://www.linkedin.com/in/samiarahman001/)
+- 📧 Email: *2023832046@student.sust.edu*
 
 > *"Every step forward counts."*
