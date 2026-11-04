@@ -70,6 +70,6 @@ A mobile app that gives farmers live sensor data, crop-specific recommendations 
 
 - 🌐 Portfolio: [work-chutocoder.vercel.app](https://work-chutocoder.vercel.app/)
 - 💼 LinkedIn: (https://www.linkedin.com/in/samiarahman001/)
-- 📧 Email: *2023832046@student.sust.edu*
+- 📧 Email: *2023831046@student.sust.edu*
 
 > *"Every step forward counts."*
